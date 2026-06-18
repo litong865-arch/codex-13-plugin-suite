@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 下载最新安装包
+    url: https://github.com/litong865-arch/codex13-plugin-suite/releases/latest
+    about: 新手优先从 Release 页面下载安装包。
+  - name: 参与讨论
+    url: https://github.com/litong865-arch/codex13-plugin-suite/discussions
+    about: 使用心得、教程建议和想法讨论可以放在 Discussions。

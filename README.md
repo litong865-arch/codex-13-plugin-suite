@@ -6,10 +6,14 @@
 
 不是让小白变成程序员，而是让小白能把项目流程说清楚。
 
+English summary: A beginner-friendly Codex plugin suite for AI project workflow, project master gate, specs, API feasibility, cost estimation, code drift inspection, acceptance review, release checks, runbooks, user interviews, and competitor analysis.
+
 如果这套插件对你有帮助，欢迎点右上角 **Star** 收藏，方便后续更新时回来下载。  
 新手优先下载：[Codex 项目开发插件 13 件套安装包](https://github.com/litong865-arch/codex13-plugin-suite/releases/latest)
 
 版本：2026-06-19 小白版
+
+关键词：Codex、Codex plugin、AI Agent、AI workflow、AI tools、low-code、no-code、project management、workflow automation、beginner-friendly software development。
 
 ## 一句话定位
 
