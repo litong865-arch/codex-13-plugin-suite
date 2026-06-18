@@ -1,6 +1,13 @@
 # 给技术小白的 Codex 13 插件项目流说明书
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/litong865-arch/codex13-plugin-suite?include_prereleases&label=release)](https://github.com/litong865-arch/codex13-plugin-suite/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/litong865-arch/codex13-plugin-suite?style=social)](https://github.com/litong865-arch/codex13-plugin-suite/stargazers)
+
 不是让小白变成程序员，而是让小白能把项目流程说清楚。
+
+如果这套插件对你有帮助，欢迎点右上角 **Star** 收藏，方便后续更新时回来下载。  
+新手优先下载：[Codex 项目开发插件 13 件套安装包](https://github.com/litong865-arch/codex13-plugin-suite/releases/latest)
 
 版本：2026-06-19 小白版
 
